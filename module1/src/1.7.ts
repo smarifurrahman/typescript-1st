@@ -1,8 +1,7 @@
 {
     // spread operator
     // rest operator
-    // destructuring
-
+    
 
     // spread operator
     const bros1: string[] = ['Arif', 'Hasnat', 'Rian'];
