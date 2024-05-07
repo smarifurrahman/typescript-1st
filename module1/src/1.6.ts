@@ -1,3 +1,4 @@
+{
 // normal function
 // arrow function
 
@@ -21,3 +22,4 @@ const poorUser = {
 
 const arr: number[] = [1, 4, 10];
 const newArray: number[] = arr.map((elem: number): number => elem * elem);
+}
