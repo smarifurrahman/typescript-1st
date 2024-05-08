@@ -1,6 +1,7 @@
 {
     // type alias
 
+    // object type alias
     type Student = {
         name: string;
         age: number;
